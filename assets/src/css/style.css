@@ -1002,6 +1002,11 @@ div.tip {
 }
 
 
+/* Checkbox per eliminare immagini viene erroneamente nascosta */
+#delete_immagine {
+    display: block;
+}
+
 /* Sidebar destra per i plugin */
 
 .control-sidebar {
